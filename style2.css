@@ -135,6 +135,7 @@ width: 690px;
 height: 411px;
 left: 542px;
 top: 125px;
+z-index: -1;
 
 }
 #submit{
@@ -172,6 +173,7 @@ color: #000000;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    z-index: -1;
     
 }
 #img1{
